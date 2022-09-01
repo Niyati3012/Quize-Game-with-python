@@ -1,1 +1,1 @@
-# Quize-Game-with-python
+# Quiz-Game-with-python
